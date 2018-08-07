@@ -1,0 +1,10 @@
+{
+  "name": "Sample Notifier",
+  "type": "SLACK",
+  "events": [
+    "PLAYER_CHAT",
+    "CONSOLE",
+    "PLAYER_COMMAND"
+  ],
+  "webhook": "https://hooks.slack.com/services/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"
+}

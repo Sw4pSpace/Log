@@ -1,0 +1,21 @@
+{
+  "PLAYER_CHAT": "<player>(<uuid>) sent chat: <message>",
+  "CONSOLE": "Console issued command: <command>",
+  "PLAYER_TELEPORT": "<player>(<uuid>) teleported from <from> to <to>",
+  "PLAYER_COMMAND": "<player>(<uuid>) issued command: <command>",
+  "PLAYER_BLOCK_BREAK": "<player>(<uuid>) broke block at <location>",
+  "PLAYER_BLOCK_PLACE": "<player>(<uuid>) placed block at <location>",
+  "PLAYER_ATTACK": "<player>(<uuid>) attacked entity at <location>",
+  "PLAYER_ATTACK_PLAYER": "<player>(<uuid>) was attacked by <targetPlayer>(<targetUuid>) at <location>",
+  "PLAYER_JOIN": "<player>(<uuid>) joined",
+  "PLAYER_QUIT": "<player>(<uuid>) quit",
+  "PLAYER_KICK": "<player>(<uuid>) was kicked for <reason>",
+  "PLAYER_ADVANCEMENT_DONE": "<player>(<uuid>) finished advancement <advancement>",
+  "PLAYER_EXP_CHANGE": "<player>(<uuid>)'s EXP has increased by <expAmount> to <exp>",
+  "PLAYER_LEVEL_CHANGE": "<player>(<uuid>)'s EXP level has changed from <oldLevel> to <newLevel>",
+  "PLAYER_GAMEMODE_CHANGE": "<player>(<uuid>)'s gamemode has changed to <gamemode>",
+  "PLAYER_DROP_ITEM": "<player>(<uuid>) dropped <item> at <itemLocation>",
+  "PLAYER_WORLD_CHANGE": "<player>(<uuid>) changed to world from <oldWorld> to <newWorld>",
+  "PLAYER_BED_ENTER": "<player>(<uuid>) entered bed at <bedLocation>",
+  "PLAYER_BED_LEAVE": "<player>(<uuid>) left bed at <bedLocation>"
+}
